@@ -50,7 +50,7 @@ def is_dag(nodes, edges):
 
 @app.get('/')
 def read_root():
-    return {'Ping': 'Pong'}
+    return {'Every thing is ': 'Good'}
 
 @app.post('/pipelines/parse')
 def parse_pipeline(pipeline : Pipeline):
