@@ -15,4 +15,45 @@ To start frontend
     * npm install
     * npm run dev   // to start
 
+Installation
+
+Prerequisites
+Node.js
+Python 3.7+
+FastAPI
+
+
+
+Frontend Setup
+
+Navigate to the frontend directory:
+    * cd frontend
+
+Install dependencies:
+    * npm install
+
+Start the development server:
+    * npm run dev
+
+--------------------------------------------------
+
+Backend Setup
+
+Navigate to the backend directory:
+    * cd backend
+
+Create a virtual environment:
+    * python -m venv venv
+
+Activate the virtual environment:
+On Windows:
+    * venv\Scripts\activate
+
+On macOS/Linux:
+    * source venv/bin/activate
+
+
+Start the FastAPI server:
+    * uvicorn main:app --reload
+
 
