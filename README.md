@@ -4,7 +4,7 @@ VectorShift Workflow is a project that utilizes React for the frontend and FastA
 
 ## Live Demo
 
-Check out the live demo of the VectorShift Workflow [here]
+Check out the live demo of the VectorShift Workflow 
 
 ##Demo Video
 
