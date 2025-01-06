@@ -65,7 +65,7 @@ Check out the live demo of the VectorShift Workflow
         ```
 4. Start the FastAPI server:
     ```bash
-    uvicorn main:app --reload
+    uvicorn main:app --reload.
     ```
 
 ## Usage
